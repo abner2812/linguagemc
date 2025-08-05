@@ -15,3 +15,13 @@ int main(){
     printf("Hello World!\n");
     return 0;
 }
+/*A função printf imprime na tela a mensagem
+"Hello World!" e o \n pula uma linha. O return
+0 indica que o programa terminou com sucesso.*/
+/*Para compilar o código, use o comando:
+gcc hello.c -o hello
+E para executar, use:
+./hello
+*/
+/*Este é um exemplo simples de um programa
+em C que imprime "Hello World!" na tela.
